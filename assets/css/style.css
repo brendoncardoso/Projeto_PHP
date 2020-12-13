@@ -1,0 +1,116 @@
+table{
+    margin-top: 10px;
+    border-collapse: collapse!important;
+    text-align: center;   
+}
+
+fieldset{
+    margin-top: 10px;
+    width: 50%;
+}
+
+.campo_procurar {
+    margin-bottom: 10px;
+}
+
+.campo_procurar input {
+    width: 80%;
+}
+
+.campo_busca {
+    margin-bottom: 10px;
+    display: inline-flex;
+}
+
+.campo_busca label, input {
+    margin-left: 5px;
+}
+
+.button_filter{
+    float: right;
+}
+
+.red {
+    background: red;
+}
+
+.blue {
+    background: blue;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.delete{
+    color: #0000F1;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.div_form{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.block_none{
+    border: 1px solid black;
+    background-color: white;
+    width: 25px;
+    height: 17px;
+    border-radius: 5px;
+}
+
+.block_red{
+    border: 1px solid black;
+    background-color: red;
+    width: 25px;
+    height: 17px;
+    border-radius: 5px;
+}
+
+.block_blue{
+    border: 1px solid black;
+    background-color: blue;
+    width: 25px;
+    height: 17px;
+    border-radius: 5px;
+}
+
+.block_yellow{
+    border: 1px solid black;
+    background-color: yellow;
+    width: 25px;
+    height: 17px;
+    border-radius: 5px;
+}
+
+.right {
+    float: right;
+}
+
+input[type=text] {
+    border-radius: 5px;
+}
+
+.mt-2{
+    margin-top: 5px;
+}
+
+.mb-2{
+    margin-bottom: 5px;
+}
+
+.desc {
+    position: absolute;
+    margin-top: -24px;
+    margin-left: 35px;
+}
+
+.voltar{
+    text-decoration: none;
+}
+
+.voltar:hover{
+    text-decoration: underline;
+}
